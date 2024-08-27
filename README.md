@@ -68,5 +68,5 @@ for prediction in predictions:
 ```
 
 ---
-license: apache-2.0
+License: apache-2.0
 ---
